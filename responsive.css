@@ -1,0 +1,226 @@
+@media (width>768px){
+
+    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Outfit:wght@300&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+.mobile1 , .desktop1 {
+    display: none;
+}
+.tablet1{
+    display: block;
+    margin-top: -10px
+}
+
+
+.ertad{ 
+    position: relative;
+    top: -45px;
+    left: 30px
+}
+
+.img3{
+    position: relative;
+    top:270px ;
+    left: 60px;
+}
+
+
+.pirveli{
+    width: 768px;
+    height: 436px;
+    display: flex;
+    gap:150px;
+  
+ }
+
+
+
+
+h1{
+    width: 223px;
+    height: 100px;
+    font-family: 'Big Shoulders Display';
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+        
+
+
+}
+.meore{
+    width: 768px;
+    height: 216px;
+    
+    
+
+}
+
+.damgale{
+    display: flex;
+    gap:60px;
+}
+
+
+
+.surati{
+    position: relative;
+    top:-35px ;
+    left: 20px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (width>1440px){
+
+    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Outfit:wght@300&display=swap');
+    body{
+        display: flex;
+        justify-content: center;
+        align-items:center ;
+        flex-direction: column;
+        overflow-x: hidden;
+    }
+    
+    .tablet1 , .mobile{
+        display: none;
+    }
+.desktop1{
+    display: block;
+}
+
+.desktop1{
+    margin-top: -10px;
+}
+
+
+.ertad{
+    margin-left: 120px;
+}
+
+.img3{
+position: relative;
+left: 279px;
+}
+
+.pirveli {
+
+    width: 1440px;
+    height: 548px;
+    gap: 300px;
+  
+}
+
+.meore{
+    width: 1440px;
+    height: 244px;
+}
+
+h1{
+    width: 350px;
+height: 140px;
+font-family: 'Big Shoulders Display';
+font-size: 70px;
+font-weight: 900;
+line-height: 70px;
+letter-spacing: 0px;
+text-align: left;
+margin-left: 100px;
+
+}
+
+h2{
+    width: 350px;
+height: 36px;
+font-family: 'Big Shoulders Display';
+font-size: 36px;
+font-weight: 900;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.pirveli p {
+    width: 445px;
+    height: 96px;
+font-family: 'Outfit';
+font-size: 22px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+
+
+.damgale{
+    gap: 250px;
+    margin-left: 80px;
+}
+
+
+h3{
+
+    width: 130.05px;
+height: 40px;
+font-family: 'Big Shoulders Display';
+font-size: 27px;
+font-weight: 900;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+color:hsla(0, 0%, 8%, 1) ;
+}
+
+.damgale p {
+    width: 430px;
+height: 84px;
+font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

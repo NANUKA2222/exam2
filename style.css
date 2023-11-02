@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800;900&family=Outfit:wght@300&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+}
+
+.tablet1 , .desktop1 {
+    display: none;
+}
+
+.mobile1{
+    margin-top: -10px;
+}
+
+header button {
+
+width: 208px;
+height: 72px;
+font-family: 'Big Shoulders Display';
+font-size: 20px;
+font-weight: 800;
+line-height: 24px;
+letter-spacing: 3.6363637447357178px;
+text-align: left;
+color: white;
+background-color: hsla(0, 0%, 8%, 1);
+border: 0px;
+display: flex;
+justify-content: center;
+align-items:center ;
+
+
+}
+
+.ertad {
+    display: flex;
+    margin-top: -555px;
+}
+
+.pirveli{
+    width: 375px;
+height: 993px;
+background-color: hsla(0, 0%, 8%, 1);
+
+}
+
+.img3{
+   position: relative;
+top: 225px;
+left: -120px;
+}
+
+
+
+.pirveli{
+   background-color: hsla(0, 0%, 8%, 1);
+    width: 375px;
+    height: 493px;
+    margin-top: 460px;
+}
+
+h1{
+    width: 343px;
+height: 45px;
+font-family: 'Big Shoulders Display';
+font-size: 50px;
+font-weight: 900;
+line-height: 45px;
+letter-spacing: 0px;
+text-align: left;
+color: white;
+position: relative;
+top: 30px;
+left: 55px;
+
+}
+
+h2{
+    width: 343px;
+height: 32px;
+font-family: 'Big Shoulders Display';
+font-size: 32px;
+font-weight: 900;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+color: hsla(24, 56%, 63%, 1);
+position: relative;
+top: 30px;
+left: 15px;
+}
+
+.pirveli p {
+
+    width: 343px;
+    height: 84px;
+    font-family: 'Outfit';
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+color: white;
+position: relative;
+top: 30px;
+left: 15px;
+
+    
+
+}
+
+
+.meore{
+    width: 375px;
+height: 336px;
+background-color: hsla(24, 56%, 63%, 1);
+margin-top: -20px;
+
+
+}
+
+h3{
+width: 110.05px;
+height: 40px;
+font-family: 'Big Shoulders Display';
+font-size: 18px;
+font-weight: 900;
+line-height: 18px;
+letter-spacing: 0px;
+text-align: left;
+color:hsla(0, 0%, 8%, 1) ;
+
+}
+
+
+footer p {
+    width: 311px;
+height: 104px;
+font-family: 'Outfit';
+font-size: 16px;
+font-weight: 300;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.damgale{
+    position: relative;
+    top: 50px;
+    left: 40px;
+
+}
+
+.a{
+    text-decoration: none !important;
+}
