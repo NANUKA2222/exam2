@@ -181,7 +181,10 @@ h5{
     display: none;
 }
 
-
+.button1:hover{
+    background-color: hsla(24, 56%, 63%, 1);
+    transition: 1s all;
+}
 
 
 }
